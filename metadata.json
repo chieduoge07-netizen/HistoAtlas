@@ -1,0 +1,6 @@
+{
+  "name": "HistoAtlas",
+  "description": "Personal virtual histology study atlas with pan-and-zoom microscopy viewer, numbered anatomical pins, study notes, and recall quiz mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
